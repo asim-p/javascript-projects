@@ -30,7 +30,7 @@ Below is a list of the projects I have worked on. You’ll find the links to the
 - **JavaScript**: For adding interactivity, making APIs calls, and handling dynamic content.
 
 ## Learning Resources
-Here are some great resources that helped me along the way:
+Here are some resources that helped me along the way:
 
 - **[MDN Web Docs](https://developer.mozilla.org/en-US/)**: A comprehensive and well-documented resource for learning HTML, CSS, and JavaScript.
 - **[freeCodeCamp](https://www.freecodecamp.org/)**: Offers free coding lessons and exercises that helped solidify my understanding of web development concepts.
