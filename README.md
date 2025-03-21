@@ -34,5 +34,5 @@ Here are some great resources that helped me along the way:
 
 - **[MDN Web Docs](https://developer.mozilla.org/en-US/)**: A comprehensive and well-documented resource for learning HTML, CSS, and JavaScript.
 - **[freeCodeCamp](https://www.freecodecamp.org/)**: Offers free coding lessons and exercises that helped solidify my understanding of web development concepts.
-- **[JavaScript30](https://javascript30.com/)**: A 30-day challenge that teaches JavaScript by building projects.
+- **[100 JS Projects](https://www.100jsprojects.com/)**: 100 JavaScript Projects for beginners
 
