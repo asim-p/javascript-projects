@@ -9,7 +9,7 @@ Below is a list of the projects I have worked on. You’ll find the links to the
 
 | Project Name            | Language/Framework Used | Description | Github Repository |
 |-------------------------|-------------------------|-------------|-------------------|
-| **1. Tic Tac Toe**       | HTML, CSS, JavaScript   | A classic game where players take turns marking spaces on a 3x3 grid. | [Link Here] [#](https://github.com/asim-p/Tic-Tac-Toe) |
+| **1. Tic Tac Toe**       | HTML, CSS, JavaScript   | A classic game where players take turns marking spaces on a 3x3 grid. | [Link Here] [Link here](https://github.com/asim-p/Tic-Tac-Toe) |
 | **2. Rock Paper Scissors**| HTML, CSS, JavaScript   | A simple game where the player competes against the computer in the classic rock, paper, scissors game. | [Link Here](#) |
 | **3. Currency Converter** | HTML, CSS, JavaScript   | Converts currencies between different countries using live exchange rates. | [Link Here](#) |
 | **4. Amazon Clone**      | HTML, CSS               | A static clone of the Amazon homepage showcasing product listings, search functionality, and a simple cart. | [Link Here](#) |
